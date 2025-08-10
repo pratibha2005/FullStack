@@ -1,3 +1,5 @@
+DEPLOYED : https://rapidresq.onrender.com/
+
 Rapid ResQ is a quick-response emergency assistance platform designed to help people in critical situations get timely help.  
 It connects users with emergency responders, volunteers, and resources in real-time, aiming to minimize response times during urgent incidents.
 
